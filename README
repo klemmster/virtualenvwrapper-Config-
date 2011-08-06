@@ -11,3 +11,6 @@ Allows for easy project organisation, by company for example
 
 Virtualenv names have to be the same as the projects names, there should
 be no duplicates
+
+For now, the only interesting scripts are
+postactivate and postactivatePython
