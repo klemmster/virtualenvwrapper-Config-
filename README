@@ -1,0 +1,13 @@
+Finds the correct project in a Project directory
+Allows for easy project organisation, by company for example
+
+~/Projects
+    /Company1
+        /Project1
+        /Project2
+    /Company2
+        /Project3
+        /Project4
+
+Virtualenv names have to be the same as the projects names, there should
+be no duplicates
