@@ -10,3 +10,4 @@
 PROJECT_DIR=$(python ~/.virtualenvs/postactivatePython.py)
 cd $PROJECT_DIR
 unset PROJECT_DIR
+export DEVELOPMENT=TRUE
